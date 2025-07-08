@@ -1,0 +1,159 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nama": "Espresso",
+      "kategori": "Minuman",
+      "subkategori": "Kopi",
+      "harga": 18000,
+      "image": "/images/espresso.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Cappuccino",
+      "kategori": "Minuman",
+      "subkategori": "Kopi",
+      "harga": 25000,
+      "image": "/images/cappuccino.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Americano",
+      "kategori": "Minuman",
+      "subkategori": "Kopi",
+      "harga": 22000,
+      "image": "/images/americano.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Latte",
+      "kategori": "Minuman",
+      "subkategori": "Kopi",
+      "harga": 24000,
+      "image": "/images/latte.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Mocha",
+      "kategori": "Minuman",
+      "subkategori": "Kopi",
+      "harga": 26000,
+      "image": "/images/mocha.jpg"
+    },
+
+    {
+      "id": 6,
+      "nama": "Matcha Latte",
+      "kategori": "Minuman",
+      "subkategori": "Non-Kopi",
+      "harga": 27000,
+      "image": "/images/matcha.jpg"
+    },
+    {
+      "id": 7,
+      "nama": "Taro Latte",
+      "kategori": "Minuman",
+      "subkategori": "Non-Kopi",
+      "harga": 25000,
+      "image": "/images/taro.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Thai Tea",
+      "kategori": "Minuman",
+      "subkategori": "Non-Kopi",
+      "harga": 20000,
+      "image": "/images/thai-tea.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Lemon Tea",
+      "kategori": "Minuman",
+      "subkategori": "Non-Kopi",
+      "harga": 18000,
+      "image": "/images/lemon-tea.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "Chocolate Drink",
+      "kategori": "Minuman",
+      "subkategori": "Non-Kopi",
+      "harga": 23000,
+      "image": "/images/chocolate.jpg"
+    },
+
+    {
+      "id": 11,
+      "nama": "French Fries",
+      "kategori": "Makanan Ringan",
+      "harga": 18000,
+      "image": "/images/french-fries.jpg"
+    },
+    {
+      "id": 12,
+      "nama": "Onion Rings",
+      "kategori": "Makanan Ringan",
+      "harga": 19000,
+      "image": "/images/onion-rings.jpg"
+    },
+    {
+      "id": 13,
+      "nama": "Nugget Ayam",
+      "kategori": "Makanan Ringan",
+      "harga": 20000,
+      "image": "/images/nugget.jpg"
+    },
+    {
+      "id": 14,
+      "nama": "Donat Mini",
+      "kategori": "Makanan Ringan",
+      "harga": 15000,
+      "image": "/images/donat.jpg"
+    },
+    {
+      "id": 15,
+      "nama": "Roti Bakar Cokelat",
+      "kategori": "Makanan Ringan",
+      "harga": 17000,
+      "image": "/images/roti-bakar.jpg"
+    },
+
+    {
+      "id": 16,
+      "nama": "Nasi Goreng Spesial",
+      "kategori": "Makanan Berat",
+      "harga": 28000,
+      "image": "/images/nasi-goreng.jpg"
+    },
+    {
+      "id": 17,
+      "nama": "Spaghetti Bolognese",
+      "kategori": "Makanan Berat",
+      "harga": 32000,
+      "image": "/images/spaghetti.jpg"
+    },
+    {
+      "id": 18,
+      "nama": "Chicken Katsu",
+      "kategori": "Makanan Berat",
+      "harga": 33000,
+      "image": "/images/katsu.jpg"
+    },
+    {
+      "id": 19,
+      "nama": "Mie Ayam Bakso",
+      "kategori": "Makanan Berat",
+      "harga": 24000,
+      "image": "/images/mie-ayam.jpg"
+    },
+    {
+      "id": 20,
+      "nama": "Sate Ayam Madura",
+      "kategori": "Makanan Berat",
+      "harga": 30000,
+      "image": "/images/sate-ayam.jpg"
+    }
+  ],
+
+  "transaksi": []
+}
