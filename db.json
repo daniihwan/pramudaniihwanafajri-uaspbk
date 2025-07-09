@@ -85,35 +85,35 @@
       "nama": "French Fries",
       "kategori": "Makanan Ringan",
       "harga": 18000,
-      "image": "/images/french-fries.jpg"
+      "image": "/makanan-ringan/frenchfries.jpg"
     },
     {
       "id": "12",
       "nama": "Onion Rings",
       "kategori": "Makanan Ringan",
       "harga": 19000,
-      "image": "/images/onion-rings.jpg"
+      "image": "/makanan-ringan/onionrings.jpg"
     },
     {
       "id": "13",
       "nama": "Nugget Ayam",
       "kategori": "Makanan Ringan",
       "harga": 20000,
-      "image": "/images/nugget.jpg"
+      "image": "/makanan-ringan/nuggetayam.jpg"
     },
     {
       "id": "14",
       "nama": "Donat Mini",
       "kategori": "Makanan Ringan",
       "harga": 15000,
-      "image": "/images/donat.jpg"
+      "image": "/makanan-ringan/donatmini.jpg"
     },
     {
       "id": "15",
       "nama": "Roti Bakar Cokelat",
       "kategori": "Makanan Ringan",
       "harga": 17000,
-      "image": "/images/roti-bakar.jpg"
+      "image": "/makanan-ringan/rotibakarcoklat.jpg"
     },
     {
       "id": "16",
