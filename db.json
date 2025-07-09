@@ -6,7 +6,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 18000,
-      "image": "/images/espresso.jpg"
+      "image": "/public/kopi/expresso.jpg"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 25000,
-      "image": "/images/cappuccino.jpg"
+      "image": "/public/kopi/cappucino.jpg"
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 22000,
-      "image": "/images/americano.jpg"
+      "image": "/public/kopi/americano.jpg"
     },
     {
       "id": "4",
@@ -151,54 +151,5 @@
       "image": "/images/sate-ayam.jpg"
     }
   ],
-  "transaksi": [
-    {
-      "id": "1751988005075",
-      "waktu": "2025-07-08T15:20:05.075Z",
-      "pelanggan": "rama",
-      "status": true,
-      "items": [
-        {
-          "id_menu": "1",
-          "nama": "Espresso",
-          "harga": 18000,
-          "jumlah": 1
-        },
-        {
-          "id_menu": "2",
-          "nama": "Cappuccino",
-          "harga": 25000,
-          "jumlah": 1
-        },
-        {
-          "id_menu": "6",
-          "nama": "Matcha Latte",
-          "harga": 27000,
-          "jumlah": 2
-        }
-      ],
-      "total": 97000
-    },
-    {
-      "id": "1751988179018",
-      "waktu": "2025-07-08T15:22:59.018Z",
-      "pelanggan": "qadri",
-      "status": false,
-      "items": [
-        {
-          "id_menu": "1",
-          "nama": "Espresso",
-          "harga": 18000,
-          "jumlah": 1
-        },
-        {
-          "id_menu": "4",
-          "nama": "Latte",
-          "harga": 24000,
-          "jumlah": 1
-        }
-      ],
-      "total": 42000
-    }
-  ]
+  "transaksi": []
 }
