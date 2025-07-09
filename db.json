@@ -6,7 +6,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 18000,
-      "image": "/kopi/expresso.jpg"
+      "image": "/minuman/expresso.jpg"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 25000,
-      "image": "/kopi/cappucino.jpg"
+      "image": "/minuman/cappucino.jpg"
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 22000,
-      "image": "/kopi/americano.jpg"
+      "image": "/minuman/americano.jpg"
     },
     {
       "id": "4",
@@ -30,7 +30,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 24000,
-      "image": "/images/latte.jpg"
+      "image": "/minuman/latte.jpg"
     },
     {
       "id": "5",
@@ -38,7 +38,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 26000,
-      "image": "/images/mocha.jpg"
+      "image": "/minuman/mocha.jpg"
     },
     {
       "id": "6",
@@ -46,7 +46,7 @@
       "kategori": "Minuman",
       "subkategori": "Non-Kopi",
       "harga": 27000,
-      "image": "/images/matcha.jpg"
+      "image": "/minuman/matchalatte.jpg"
     },
     {
       "id": "7",
@@ -54,7 +54,7 @@
       "kategori": "Minuman",
       "subkategori": "Non-Kopi",
       "harga": 25000,
-      "image": "/images/taro.jpg"
+      "image": "/minuman/tarolatte.jpg"
     },
     {
       "id": "8",
@@ -62,7 +62,7 @@
       "kategori": "Minuman",
       "subkategori": "Non-Kopi",
       "harga": 20000,
-      "image": "/images/thai-tea.jpg"
+      "image": "/minuman/thaitea.jpg"
     },
     {
       "id": "9",
@@ -70,7 +70,7 @@
       "kategori": "Minuman",
       "subkategori": "Non-Kopi",
       "harga": 18000,
-      "image": "/images/lemon-tea.jpg"
+      "image": "/minuman/lemontea.jpg"
     },
     {
       "id": "10",
@@ -78,7 +78,7 @@
       "kategori": "Minuman",
       "subkategori": "Non-Kopi",
       "harga": 23000,
-      "image": "/images/chocolate.jpg"
+      "image": "/minuman/chocolatedrink.jpg"
     },
     {
       "id": "11",
@@ -151,5 +151,39 @@
       "image": "/images/sate-ayam.jpg"
     }
   ],
-  "transaksi": []
+  "transaksi": [
+    {
+      "id": "1752042920875",
+      "waktu": "2025-07-09T06:35:20.875Z",
+      "pelanggan": "pramudani",
+      "status": true,
+      "items": [
+        {
+          "id_menu": "1",
+          "nama": "Espresso",
+          "harga": 18000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": "4",
+          "nama": "Latte",
+          "harga": 24000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": "6",
+          "nama": "Matcha Latte",
+          "harga": 27000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": "15",
+          "nama": "Roti Bakar Cokelat",
+          "harga": 17000,
+          "jumlah": 1
+        }
+      ],
+      "total": 86000
+    }
+  ]
 }
