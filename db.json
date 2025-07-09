@@ -6,7 +6,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 18000,
-      "image": "/public/kopi/expresso.jpg"
+      "image": "/kopi/expresso.jpg"
     },
     {
       "id": "2",
@@ -14,7 +14,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 25000,
-      "image": "/public/kopi/cappucino.jpg"
+      "image": "/kopi/cappucino.jpg"
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "kategori": "Minuman",
       "subkategori": "Kopi",
       "harga": 22000,
-      "image": "/public/kopi/americano.jpg"
+      "image": "/kopi/americano.jpg"
     },
     {
       "id": "4",
