@@ -59,12 +59,11 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 ## 📝 Contoh Endpoint (JSON Server)
 
-```json
-GET     /menu
-GET     /transaksi
-POST    /transaksi
-PATCH   /transaksi/:id
-```
+### GET     /menu
+### GET     /transaksi
+### POST    /transaksi
+### PATCH   /transaksi/:id
+
 
 Struktur transaksi:
 
