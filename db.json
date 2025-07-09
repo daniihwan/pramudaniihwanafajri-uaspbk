@@ -120,35 +120,35 @@
       "nama": "Nasi Goreng Spesial",
       "kategori": "Makanan Berat",
       "harga": 28000,
-      "image": "/images/nasi-goreng.jpg"
+      "image": "/makanan-berat/nasigorengspesial.jpg"
     },
     {
       "id": "17",
       "nama": "Spaghetti Bolognese",
       "kategori": "Makanan Berat",
       "harga": 32000,
-      "image": "/images/spaghetti.jpg"
+      "image": "/makanan-berat/spaghettibolognese.jpg"
     },
     {
       "id": "18",
       "nama": "Chicken Katsu",
       "kategori": "Makanan Berat",
       "harga": 33000,
-      "image": "/images/katsu.jpg"
+      "image": "/makanan-berat/chickenkatsu.jpg"
     },
     {
       "id": "19",
       "nama": "Mie Ayam Bakso",
       "kategori": "Makanan Berat",
       "harga": 24000,
-      "image": "/images/mie-ayam.jpg"
+      "image": "/makanan-berat/mieayambakso.jpg"
     },
     {
       "id": "20",
       "nama": "Sate Ayam Madura",
       "kategori": "Makanan Berat",
       "harga": 30000,
-      "image": "/images/sate-ayam.jpg"
+      "image": "/makanan-berat/sateayammadura.jpg"
     }
   ],
   "transaksi": [
